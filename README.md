@@ -64,6 +64,7 @@ For projecting the total fertility rate and life expectancy at birth (e0), natio
 
 After these steps, your "EDSDbayespop" directory should look like this:
 
+<img src="img/dirstruct.png" height="200"/>
 
 # Workshop Material
 
