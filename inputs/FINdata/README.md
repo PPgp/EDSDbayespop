@@ -1,5 +1,7 @@
 ## bayesPop data for Finland
 
+(compiled by Aapo Hiilamo)
+
 Subnational data on total fertility rate, life expectancy at birth, migration and population for Finnish regions to be used for subnational probabilistic projections of fertility, mortality, migration and population. These files are regional level (n = 19), derived from Statistics Finland.  
 Data downloaded on **14 December 2025**.
 
@@ -14,10 +16,11 @@ Data downloaded on **14 December 2025**.
 | migrationF, migrationM | [11a2 — Internal migration by age (5-year), sex and area, 1990–2024](https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__muutl/statfin_muutl_pxt_11a2.px/)  [11a7 — International migration by age (5-year) and sex, 1990–2024](https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__muutl/statfin_muutl_pxt_11a7.px/)| Age- and sex-specific net migration. From 5-year age groups, as of now assuming dividing the numbers equally within age intervals |
 
 
-![Regions of Finland and their population on 31.12.2024](finland_regions_pop.png)
+<img src="finland_regions_pop.png" alt="Regions of Finland and their population on 31.12.2024" width="500"/>
+
 **Regions of Finland and their population on 31.12.2024
 
-Data compiled by Aapo Hiilamo.
+
 
 
 
