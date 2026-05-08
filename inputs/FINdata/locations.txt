@@ -1,0 +1,21 @@
+country_code	reg_code	name	location_type
+246	1	Uusimaa	4
+246	2	Southwest Finland	4
+246	4	Satakunta	4
+246	5	Kanta-Häme	4
+246	6	Pirkanmaa	4
+246	7	Päijät-Häme	4
+246	8	Kymenlaakso	4
+246	9	South Karelia	4
+246	10	South Savo	4
+246	11	North Savo	4
+246	12	North Karelia	4
+246	13	Central Finland	4
+246	14	South Ostrobothnia	4
+246	15	Ostrobothnia	4
+246	16	Central Ostrobothnia	4
+246	17	North Ostrobothnia	4
+246	18	Kainuu	4
+246	19	Lapland	4
+246	21	Åland	4
+246	246	Finland	0
