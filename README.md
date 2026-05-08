@@ -3,6 +3,8 @@
 
 # About
 
+This repository contains material for the computer labs of the module "Bayesian projection methodology", a part of the 2025/2026 program of the [European Doctoral School of Demography](https://eaps.nl/edsd). The module takes place in the week of May 18, 2026, in Paris, France.
+
 In the computer labs, we will generate probabilistic population projections for all 19 NUTS-3 regions of Finland, including probabilistic projections of the individual components of population change, such as the total fertility rate, life expectancy at birth and net migration.
 
 # Pre-requisites
