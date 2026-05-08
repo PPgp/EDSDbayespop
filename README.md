@@ -47,15 +47,7 @@ git clone https://github.com/PPgp/EDSDbayespop EDSDbayespop
 
 Alternatively, one can clone it directly from an R Studio via File -> New Project -> Version Control -> Git. As repository URL enter https://github.com/PPgp/EDSDbayespop and as Project directory name enter EDSDbayespop. Then click on "Create Project".
 
-Both of these alternatives create a directory "EDSDbayespop" which will be your working directory for the labs. It is only a template of the directory structure we will be using. It contains the subdirectory "inputs" that will hold our input datasets.
-
-The subnational data needed in this demo are in a different GitHub repository, namely ["PPgp/bayesPopFINdata"](https://github.com/PPgp/bayesPopFINdata). Clone this repository into the "inputs" subdirectory, called "FINdata". For example, from the command line navigate into the directory "EDSDbayespop/inputs" and clone the repo via
-
-```
-git clone https://github.com/PPgp/bayesPopFINdata FINdata
-```
-
-Now the directory "EDSDbayespop/inputs/FINdata" should contain the subnational datasets for Finland.
+Both of these alternatives create a directory "EDSDbayespop" which will be your working directory for the labs. The subnational input datasets for Finland needed in these labs are contained in its "inputs/FINdata" sub-directory. 
 
 For projecting the total fertility rate and life expectancy at birth (e0), national probabilistic projections are needed and they should be placed into the subdirectory "inputs/wpp2024\_projections". They could be generated from scratch, but to save time, please download them from our [website](https://bayespop.csss.washington.edu/data) as follows:
 
