@@ -62,4 +62,4 @@ After these steps, your "EDSDbayespop" directory should look like this:
 
 # Workshop Material
 
-Coming soon.
+[Go to the labs material](https://bayespop.csss.washington.edu/EDSD2026labs) (login credentials available during the course)
