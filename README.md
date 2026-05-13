@@ -60,6 +60,6 @@ After these steps, your "EDSDbayespop" directory should look like this:
 
 <img src="img/dirstruct.png" height="200"/>
 
-# Workshop Material
+# Labs Material
 
 [Go to the labs material](https://bayespop.csss.washington.edu/EDSD2026labs) (login credentials available during the course)
